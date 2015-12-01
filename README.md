@@ -8,7 +8,7 @@ The next step for this project would be to use either the blob tracker add-on or
 
 [FIRST ATTEMPT](https://vimeo.com/146846950)
 
-[![SECOND TRY (USING Box2D)]](https://www.youtube.com/watch?v=fTIsT60ROYo&feature=youtu.be)
+[SECOND TRY (USING Box2D)](https://www.youtube.com/watch?v=fTIsT60ROYo&feature=youtu.be)
 
 I used a few online sources for this project, but my classmates were most helpful.
 
