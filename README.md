@@ -10,7 +10,7 @@ The project below utilizes OpenCV in combination with Box2D:
 
 [![Alt text for your video](https://i.ytimg.com/vi/UaNRmljpcMw/hqdefault.jpg)](https://youtu.be/UaNRmljpcMw)
 
-I used a few online sources for this project, but my classmates were most helpful with this project.
+I used a few online sources for this project, but my classmates were most helpful.
 
 ###Sources
 
