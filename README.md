@@ -8,13 +8,13 @@ The next step for this project would be to use either the blob tracker add-on or
 
 [Video: FIRST ATTEMPT](https://vimeo.com/146846950)
 
-[Video: SECOND TRY (USING Box2D)](https://www.youtube.com/watch?v=fTIsT60ROYo&feature=youtu.be)
+[Video: SECOND TRY (USING Box2D)](https://www.youtube.com/watch?v=fTIsT60ROYo&feature=youtu.be) For this attempt, I couldn't get the face detection to become a Box2d shape capable of interacting with the Box2D circles. 
 
 ![Alt text](https://github.com/jmitch12/openFrameworksFinal/blob/master/face.png "Face")
 
 [Video: THIRD TRY](https://youtu.be/W1yZQAnm_hQ) This attempt was able to detect the collision and print to the console, but for some reason it only affected one of the balls and not in the way I would have liked. 
 
-[Video: FOURTH TRY]() I started over for roughly the fourth attempt and it was the closest I could get to the interaction. Something is still not quite right. Check out the [code](https://github.com/jmitch12/thirdAttempt).
+[Video: FOURTH TRY](https://www.youtube.com/watch?v=DN4-0yeLie0&feature=youtu.be) I started over, for roughly the fourth attempt, and it was the closest I could get to the desired interaction. Something is still not quite right. Check out the [code](https://github.com/jmitch12/thirdAttempt).
 
 ![Alt text](https://github.com/jmitch12/thirdAttempt/blob/master/ball.png "Ball")
 
