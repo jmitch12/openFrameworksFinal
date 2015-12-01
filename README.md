@@ -10,6 +10,8 @@ The next step for this project would be to use either the blob tracker add-on or
 
 [Video: SECOND TRY (USING Box2D)](https://www.youtube.com/watch?v=fTIsT60ROYo&feature=youtu.be)
 
+[Video: THIRD TRY](https://youtu.be/W1yZQAnm_hQ) This attempt was able to detect the collision and print to the console, but for some reason it only affected one of the balls and not in the way I would have liked. 
+
 ![Alt text](https://github.com/jmitch12/openFrameworksFinal/blob/master/face.png "Face")
 
 I used a few online sources for this project, but my classmates were most helpful.
@@ -21,6 +23,8 @@ I used a few online sources for this project, but my classmates were most helpfu
 ClassCode Example for OpenCV add-on
 
 [Box2D](http://box2d.org/)
+
+Andrew Genualdi
 
 Umi Syam 
 
