@@ -24,4 +24,6 @@ Umi Syam
 
 Saman Tehrani
 
-[Final Two](https://github.com/jmitch12/ofFinalTwo)
+###FINAL PROJECT TWO
+
+[Link to Repository](https://github.com/jmitch12/ofFinalTwo)
