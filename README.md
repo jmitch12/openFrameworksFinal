@@ -6,13 +6,9 @@ I used the ofxOpenCv add-on for this project in order to detect faces. The openC
 
 The next step for this project would be to use either the blob tracker add-on or facial tracker to create a more accurate interaction with the balls in the screen. I think I would also like to learn how to use Box2D in the future to incorporate physics into the project. I had issues trying to mesh openCV with Box2D, but I would like to experiment further.
 
-FIRST ATTEMPT:
+[FIRST ATTEMPT](https://vimeo.com/146846950)
 
-[ofxOpenCv](https://vimeo.com/146846950)
-
-SECOND TRY (using Box2D):
-
-[![Alt text for your video]()](https://www.youtube.com/watch?v=fTIsT60ROYo&feature=youtu.be)
+[![SECOND TRY (USING Box2D)]](https://www.youtube.com/watch?v=fTIsT60ROYo&feature=youtu.be)
 
 I used a few online sources for this project, but my classmates were most helpful.
 
